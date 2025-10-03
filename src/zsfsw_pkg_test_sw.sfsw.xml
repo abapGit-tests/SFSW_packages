@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SFSW" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEADER>
+    <SWITCH_ID>ZSFSW_PKG_TEST_SW</SWITCH_ID>
+   </HEADER>
+   <NAME32>SFSW Package Test Case: switch</NAME32>
+   <PACKAGES>
+    <SFW_DEVCL_OUTTAB_LINE>
+     <SWITCH_ID>ZSFSW_PKG_TEST_SW</SWITCH_ID>
+     <VERSION>A</VERSION>
+     <DEVCLASS>$SFSW_PKG_TC_SW</DEVCLASS>
+     <CTEXT>SFSW Package Test Case: Switch-controlled package</CTEXT>
+    </SFW_DEVCL_OUTTAB_LINE>
+   </PACKAGES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
