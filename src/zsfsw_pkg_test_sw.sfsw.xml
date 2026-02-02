@@ -11,7 +11,6 @@
      <SWITCH_ID>ZSFSW_PKG_TEST_SW</SWITCH_ID>
      <VERSION>A</VERSION>
      <DEVCLASS>$SFSW_PKG_TC_SW</DEVCLASS>
-     <CTEXT>SFSW Package Test Case: Switch-controlled package</CTEXT>
     </SFW_DEVCL_OUTTAB_LINE>
    </PACKAGES>
   </asx:values>
